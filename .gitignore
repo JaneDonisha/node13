@@ -1,0 +1,8 @@
+__pycache__/
+*.db
+data/
+results_*/
+.venv/
+.streamlit/credentials.toml
+.streamlit/machine_id_v4
+.streamlit/.skills_nudge_dismissed
